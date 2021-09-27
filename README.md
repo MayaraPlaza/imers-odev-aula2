@@ -1,2 +1,2 @@
-# imers-odev-aula2
+# ImersaoDev-Aula2
 Conversor de moedas - Imersão Dev Aula 02 - Alura
